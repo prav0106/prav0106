@@ -44,46 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prav0106&show_icons=true&locale=en" alt="prav0106" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prav0106&" alt="prav0106" /></p>
 
-<style>
-  body {
-    background-color: #1a1a1a;
-    color: #fff;
-  }
-
-  #name {
-    animation: typing 3s steps(20) 1s forwards, blink 0.75s step-end infinite;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 4px solid #fff;
-  }
-
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      border-color: transparent;
-    }
-  }
-
-  h1, h3 {
-    color: #fff;
-  }
-
-  h3 {
-    font-size: 1.5em;
-  }
-
-  p {
-    font-size: 1em;
-    line-height: 1.6;
-  }
-</style>
