@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **advanced machine learning techniques, deep learning, and AI model deployment**
 - 👯 I’m looking to collaborate on **Fake Profile Detection Using AI**
 - 🤝 I’m looking for help with **Automated Attendance System using Facial Recognition**
-- 👨‍💻 All of my projects are available at [https://github.com/prav0106 in the next 1-2 days. Stay tuned!](https://github.com/prav0106 in the next 1-2 days. Stay tuned!)
+- 👨‍💻 All of my projects are available at https://github.com/prav0106
 - 💬 Ask me about **creating machine learning models, Python coding tips, and real-time AI applications**
 - 📫 How to reach me **kaurpravleen12@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JQkQULml8XqnalhcGXgcnBHK9rHRRAtp/view?usp=drive_link](https://drive.google.com/file/d/1JQkQULml8XqnalhcGXgcnBHK9rHRRAtp/view?usp=drive_link)
