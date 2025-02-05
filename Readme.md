@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prav0106&label=Profile%20views&color=0e75b6&style=flat" alt="prav0106" /> </p>
 
-- 🔭 I’m currently working on **Object Detection**
+- 🔭 I’m currently working on **Object Detection Using YOLO**
 - 🌱 I’m currently learning **advanced machine learning techniques, deep learning, and AI model deployment**
 - 👯 I’m looking to collaborate on **Fake Profile Detection Using AI**
 - 🤝 I’m looking for help with **Automated Attendance System using Facial Recognition**
