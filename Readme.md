@@ -17,7 +17,7 @@
 - 💬 Ask me about **creating machine learning models, Python coding tips, and real-time AI applications**
 - 📫 How to reach me **kaurpravleen12@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JQkQULml8XqnalhcGXgcnBHK9rHRRAtp/view?usp=drive_link](https://drive.google.com/file/d/1JQkQULml8XqnalhcGXgcnBHK9rHRRAtp/view?usp=drive_link)
-- ⚡ Fun fact **I love combining AI with everyday problems to create solutions.**
+- ⚡ Fun fact **I love combining AI with everyday problems to create solutions....**
 
 <h3 align="left" style="color: #fff;">Connect with me:</h3>
 <p align="left">
