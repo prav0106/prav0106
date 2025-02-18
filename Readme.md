@@ -8,7 +8,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prav0106&label=Profile%20views&color=0e75b6&style=flat" alt="prav0106" /> </p>
-
+- 🔭 I’m currently working on **Object Detection Using YOLO**
+- 🌱 I’m currently learning **advanced machine learning techniques, deep learning, and AI model deployment**
 - 🔭 I’m currently working on **Object Detection Using YOLO**
 - 🌱 I’m currently learning **advanced machine learning techniques, deep learning, and AI model deployment**
 - 👯 I’m looking to collaborate on **Fake Profile Detection Using AI**
