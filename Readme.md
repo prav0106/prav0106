@@ -24,6 +24,7 @@
 - 👯 Open to collaboration on **Fake Profile Detection Using AI**
 - 🤝 Seeking guidance for **Automated Attendance System with Facial Recognition**
 - 💬 Ask me about **ML models, Python tips, and real-time AI applications**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/prav0106)
 - 👨‍🎓 Reach me at **kaurpravleen12@gmail.com**
 - 📄 Check out my resume [Resume Link](https://drive.google.com/file/d/1JQkQULml8XqnalhcGXgcnBHK9rHRRAtp/view?usp=drive_link)
 - ✨ **Fun Fact:** "I talk to AI models more than humans!" 😂
