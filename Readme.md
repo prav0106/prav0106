@@ -4,7 +4,7 @@
   </span>
 </h1>
 
-<h3 align="center" style="color: #00e676; font-weight: bold;">Transforming Ideas into Reality with Python, AI, and ML</h3>
+<h3 align="center" style="color: #00e676; font-weight: bold;">Transforming Ideas into Reality with Python, AI and ML</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=450&lines=Data+Science+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;AI+%7C+ML+%7C+Deep+Learning+%F0%9F%92%BB;Loves+Building+Real-World+Projects+%F0%9F%91%BB;Passionate+about+Tech+%F0%9F%9A%80" alt="Typing SVG" />
