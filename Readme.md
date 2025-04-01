@@ -18,6 +18,7 @@
 </p>
 
 ---
+
 ### 🚀 About Me:
 - 🔯 Currently working on **Object Detection Using YOLO**
 - 🌱 Learning **Advanced ML, Deep Learning & AI Deployment**
@@ -29,6 +30,7 @@
 - ✨ **Fun Fact:** "I talk to AI models more than humans!" 😂
 
 ---
+
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/pravleen-kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -36,8 +38,8 @@
   <a href="mailto:your-kaurpravleen12@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 
-
 ---
+
 ### 🛠️ Languages & Tools:
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -53,6 +55,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prav0106&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -61,12 +64,21 @@
 </p>
 
 ---
+
+### 🏆 LeetCode Achievements:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prav_0106?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
+
 ### 💎 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prav0106&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Fun Quote" />
 </p>
