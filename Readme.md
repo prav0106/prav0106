@@ -31,10 +31,6 @@
   <img src="https://leetcard.jacoblin.cool/prav_0106?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
 </p>
 
-#### 🏅 **LeetCode Badges**
-<p align="center">
-  <img src="https://your-uploaded-gif-url.com/leetcode-badges.gif" width="200"/>
-</p>
 
 ---
 ### 📊 GitHub Stats:
