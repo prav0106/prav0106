@@ -7,6 +7,7 @@
     Hi 👋, I'm <span style="color: #ff9800; text-decoration: underline; font-size: 45px; font-weight: bold;">Pravleen Kaur</span>
   </span>
 </h1>
+
 <h3 align="center" style="color: #00e676; font-weight: bold;">AI & ML Engineer | Passionate about Deep Learning</h3>
 
 <div align="center">
