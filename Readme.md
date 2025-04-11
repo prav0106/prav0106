@@ -4,10 +4,9 @@
 
 <h1 align="center">
   <span id="name" style="font-size: 40px; font-weight: bold; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);">
-    Hi 👋, I'm <span style="color: #ff9800; text-decoration:  font-size: 45px; font-weight: bold;">Pravleen Kaur</span>
+    Hi 👋, I'm <span style="color: #ff9800; text-decoration: underline; font-size: 45px; font-weight: bold;">Pravleen Kaur</span>
   </span>
 </h1>
-
 <h3 align="center" style="color: #00e676; font-weight: bold;">AI & ML Engineer | Passionate about Deep Learning</h3>
 
 <div align="center">
